@@ -34,10 +34,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/rikspw/rikspw/output/snake.svg" alt="Snake animation" />
 
 ###
-- ⚡ Fun fact: ...
--->
